@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'tj.gfit-viz'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.projectlombok:lombok:1.18.12'
+    annotationProcessor 'org.projectlombok:lombok:1.18.12'
+}
