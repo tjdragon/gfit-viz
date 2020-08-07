@@ -24,3 +24,7 @@ Converter is [TCX2CSV](./src/main/java/tj/gfit/TCX2CSV.java), data class is [Tra
 
 ## Plot on map via Folium
 See this [Jupyter Notebook](./gviz.ipynb) and the resulting [map](./gviz.html) using [Folium](https://python-visualization.github.io/folium/)
+
+## Local version using Quantified Self
+[Quantified-Self](https://github.com/jimmykane/quantified-self/), locally:
+![QS](./src/main/resources/qself.png)
